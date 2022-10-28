@@ -9,22 +9,38 @@ import { ImYoutube2 } from "react-icons/im";
 const HeaderSocial = () => {
   return (
     <div className="header__socials">
-      <a href="https://linkedin.com/in/" target="_blank" rel="noreferrer">
+      <a
+        href="https://www.linkedin.com/in/udotor-john-itsenegbemhe-0a621678"
+        target="_blank"
+        rel="noreferrer"
+      >
         <BsLinkedin />
       </a>
-      <a href="https://github.com/" target="_blank" rel="noreferrer">
+      <a href="https://github.com/johnudotor" target="_blank" rel="noreferrer">
         <FaGithub />
       </a>
-      <a href="https://facebook.com/" target="_blank" rel="noreferrer">
+      <a
+        href="https://facebook.com/udotorjohn"
+        target="_blank"
+        rel="noreferrer"
+      >
         <MdFacebook />
       </a>
-      <a href="https://instagram.com/" target="_blank" rel="noreferrer">
+      <a
+        href="https://instagram.com/john_udotor"
+        target="_blank"
+        rel="noreferrer"
+      >
         <SiInstagram />
       </a>
-      <a href="https://twitter.com/" target="_blank" rel="noreferrer">
+      <a
+        href="https://twitter.com/john_udotor"
+        target="_blank"
+        rel="noreferrer"
+      >
         <RiTwitterFill />
       </a>
-      <a href="https://youtube.com/" target="_blank" rel="noreferrer">
+      <a href="https://www.youtube.com/channel/UCAWB9tUbpLIWO8VpZwiw5Mw" target="_blank" rel="noreferrer">
         <ImYoutube2 />
       </a>
     </div>
