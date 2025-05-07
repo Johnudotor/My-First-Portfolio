@@ -37,7 +37,7 @@ const About = () => {
             </article>
           </div>
           <p> 
-<br>As a seasoned full-stack web developer with a passion for crafting innovative digital solutions, I specialize in designing, developing, and deploying scalable web applications. With extensive expertise in the MERN (MongoDB, Express.js, React.js, Node.js) stack, I deliver high-quality solutions that meet clients' evolving needs.</br>
+As a seasoned full-stack web developer with a passion for crafting innovative digital solutions, I specialize in designing, developing, and deploying scalable web applications. With extensive expertise in the MERN (MongoDB, Express.js, React.js, Node.js) stack, I deliver high-quality solutions that meet clients' evolving needs.
 
 <br>Professional Summary</br>
 
@@ -47,7 +47,7 @@ With 3 years of experience in web development, I've developed a strong foundatio
 - Back-end development: Node.js, Express.js, RESTful APIs, MongoDB
 - Database management: MongoDB, data modeling, database optimization
 
-Key Skills.
+Key Skills
 
 - MERN stack development
 - Full-stack web development
