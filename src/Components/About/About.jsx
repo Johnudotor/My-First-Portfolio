@@ -45,7 +45,7 @@ With 3 years of experience in web development, I've developed a strong foundatio
 
 - Front-end development: React.js, JavaScript, HTML5, CSS3, responsive web design <br />
 - Back-end development: Node.js, Express.js, RESTful APIs, MongoDB <br />
-- Database management: MongoDB, data modeling, database optimization <br /> <br />
+- Database management: MongoDB, data modeling, database optimization. <br /> <br />
 
 Key Skills <br />
 
