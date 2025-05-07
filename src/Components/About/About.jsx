@@ -43,18 +43,18 @@ As a seasoned full-stack web developer with a passion for crafting innovative di
 
 With 3 years of experience in web development, I've developed a strong foundation in both front-end and back-end technologies. My expertise spans: <br />
 
-- Front-end development: React.js, JavaScript, HTML5, CSS3, responsive web design
-- Back-end development: Node.js, Express.js, RESTful APIs, MongoDB
+- Front-end development: React.js, JavaScript, HTML5, CSS3, responsive web design <br />
+- Back-end development: Node.js, Express.js, RESTful APIs, MongoDB <br />
 - Database management: MongoDB, data modeling, database optimization <br /> <br />
 
 Key Skills <br />
 
-- MERN stack development
-- Full-stack web development
-- Responsive web design
-- API development and integration
-- Database design and management
-- Version control (Git)
+- MERN stack development <br />
+- Full-stack web development<br />
+- Responsive web design<br />
+- API development and integration<br />
+- Database design and management<br />
+- Version control (Git)<br />
 - Agile development methodologies <br /> <br />
 
 Experience <br />
