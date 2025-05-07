@@ -47,7 +47,7 @@ With 3 years of experience in web development, I've developed a strong foundatio
 - Back-end development: Node.js, Express.js, RESTful APIs, MongoDB
 - Database management: MongoDB, data modeling, database optimization
 
-Key Skills
+Key Skills.
 
 - MERN stack development
 - Full-stack web development
