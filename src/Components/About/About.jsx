@@ -81,7 +81,7 @@ As a full-stack web developer, I strive to create innovative, user-centric solut
 
 Let's Connect<br />
 
-If you're looking for a skilled full-stack web developer to bring your project to life, let's collaborate! Feel free to explore my portfolio, GitHub repositories, or contact me directly to discuss your project requirements.
+If you're looking for a skilled full-stack web developer to bring your project to life, let's collaborate! Feel free to explore my portfolio, GitHub repositories, or contact me directly to discuss your project requirements. Thank you.
           </p>
 
           <a href="#contact" className="btn btn-primary">
