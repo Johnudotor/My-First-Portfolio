@@ -125,27 +125,39 @@ const Services = () => {
             <ul className="service__list">
               <li>
                 <BiCheck className="service__list-icon" />
-                <p>Lorem, ipsum dolor sit amet consectetur elit</p>
+                <p>I bring a unique blend of technical expertise and creative storytelling to deliver dynamic web solutions and engaging tech-focused content. I help businesses and individuals establish a strong online presence and connect with their audiences. My services are designed to drive innovation, engagement, and measurable results through cutting-edge development and impactful communication.
+</p>
               </li>
 
               <li>
                 <BiCheck className="service__list-icon" />
-                <p>Lorem, ipsum dolor sit amet consectetur elit</p>
+                <p>Full-Stack Solutions
+   - Deliver end-to-end web development, from ideation to deployment, integrating front-end and back-end components for seamless functionality.  
+   - Implement RESTful APIs, third-party integrations, and modern frameworks to build secure, scalable, and efficient applications.  
+   - Optimize websites for performance, SEO, and user experience to drive engagement and conversions.
+</p>
               </li>
 
               <li>
                 <BiCheck className="service__list-icon" />
-                <p>Lorem, ipsum dolor sit amet consectetur elit</p>
+                <p>Tech Content Creation
+   - Produce high-quality, engaging content, including blog posts, tutorials, case studies, and technical guides, tailored to tech-savvy audiences.  
+   - Create clear, accessible explanations of complex technical concepts, bridging the gap between developers, businesses, and end-users.  
+   - Develop content strategies to boost brand visibility, educate audiences, and establish thought leadership in the tech space.</p>
               </li>
 
               <li>
                 <BiCheck className="service__list-icon" />
-                <p>Lorem, ipsum dolor sit amet consectetur elit</p>
+                <p>With extensive experience as a Website Developer and Tech Content Creator, I offer a rare combination of technical precision and creative expertise. My ability to build robust, user-centric websites and craft compelling tech content enables me to deliver solutions that not only perform flawlessly but also resonate with audiences. Whether you need a dynamic web application, an engaging tech blog, or a cohesive digital strategy, I’m dedicated to delivering results that elevate your brand and drive success.</p>
               </li>
 
               <li>
                 <BiCheck className="service__list-icon" />
-                <p>Lorem, ipsum dolor sit amet consectetur elit</p>
+                <p>Content-Driven Web Solutions
+   - Integrate dynamic content management systems (CMS) to empower clients to update and manage their websites effortlessly.  
+   - Combine development and content expertise to create blogs, portfolios, or e-learning platforms that engage and inform users.  
+   - Optimize content for SEO to enhance discoverability and drive organic traffic.
+</p>
               </li>
             </ul>
           </div>
