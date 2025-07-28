@@ -162,6 +162,78 @@ const Services = () => {
             </ul>
           </div>
         </article>
+
+{/* END OF CONTENT CREATION */}
+
+
+
+<article className="service">
+          <div className="service__head">
+            <h3>Carpentry And Furnishing Designer</h3>
+            <ul className="service__list">
+              <li>
+                <BiCheck className="service__list-icon" />
+                <p>I'm also a professional Carpenter and Furniture Designer, I specialize in crafting high-quality, bespoke woodwork and furniture that blend functionality, artistry, and durability. With years of experience in precision carpentry and innovative design, I create custom pieces and structural solutions that elevate spaces and meet the unique needs of my clients. My services combine expert craftsmanship, creative design, and a commitment to delivering timeless, sustainable results.
+
+
+
+</p>
+              </li>
+
+              <li>
+                <BiCheck className="service__list-icon" />
+                <p>Custom Furniture Design & Fabrication**  
+   - Design and craft bespoke furniture, including tables, chairs, cabinets, shelving, and more, tailored to your aesthetic and functional requirements.  
+   - Create unique, handcrafted pieces that reflect your style, from modern minimalist to rustic or classical designs.  
+   - Utilize premium materials, such as hardwoods, reclaimed wood, or sustainable alternatives, to ensure durability and beauty.
+
+</p>
+              </li>
+
+              <li>
+                <BiCheck className="service__list-icon" />
+                <p>Furniture Restoration & Refinishing
+   - Restore antique or worn furniture to its original glory, preserving its character while enhancing durability and appearance.  
+   - Provide refinishing services, including staining, painting, and polishing, to refresh and modernize existing pieces.  
+   - Repair structural damage, ensuring restored furniture is both functional and visually appealing.
+</p>
+              </li>
+
+              <li>
+                <BiCheck className="service__list-icon" />
+                <p>Space Planning & Custom Solutions 
+   - Collaborate with clients to design furniture and woodwork that optimizes space, enhances functionality, and complements interior design themes.  
+   - Offer tailored solutions for small spaces, multi-functional furniture, or specialized commercial installations.  
+   - Provide 3D renderings or sketches to visualize designs before fabrication, ensuring alignment with client expectations.
+
+</p>
+              </li>
+
+              <li>
+                <BiCheck className="service__list-icon" />
+                <p>Sustainable & Eco-Friendly Practices  
+   - Source sustainable, high-quality materials and employ environmentally conscious techniques to minimize waste and environmental impact.  
+   - Incorporate reclaimed or responsibly sourced wood to create unique, eco-friendly pieces with character and story.  
+   - Advise clients on sustainable design choices that balance aesthetics, functionality, and environmental responsibility.
+</p>
+              </li>
+
+              <li>
+                <BiCheck className="service__list-icon" />
+                <p>Consulting & Project Management
+   - Offer expert consultation on material selection, design concepts, and project feasibility to bring your vision to life.  
+   - Manage projects from concept to completion, coordinating with architects, contractors, and designers to ensure timely and flawless execution.  
+   - Provide maintenance advice to preserve the longevity and beauty of custom woodwork and furniture.
+</p>
+              </li>
+            </ul>
+          </div>
+        </article>
+
+        {/* END OF CARPENTRY AND FURNITURE */}
+
+
+
       </div>
     </section>
   );
