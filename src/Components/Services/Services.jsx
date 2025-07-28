@@ -50,7 +50,7 @@ const Services = () => {
                 <p>Maintenance & Optimization
    - Provide ongoing support, bug fixes, and performance optimization for existing web applications.  
    - Implement SEO best practices and optimize load times to improve user engagement and search engine rankings.  
-   - Conduct code reviews and refactoring to ensure clean, maintainable, and future-proof codebases</p>
+   - Conduct code reviews and refactoring to ensure clean, maintainable, and future-proof codebases.</p>
               </li>
             </ul>
           </div>
@@ -64,32 +64,54 @@ const Services = () => {
             <ul className="service__list">
               <li>
                 <BiCheck className="service__list-icon" />
-                <p>Lorem, ipsum dolor sit amet consectetur elit</p>
+                <p>As an accomplished Computer Analyst with extensive experience in system analysis, data management, and IT solutions, I specialize in optimizing technology ecosystems to drive business efficiency and innovation. Leveraging expertise in system diagnostics, process optimization, and data-driven decision-making, I deliver tailored solutions that enhance operational performance and align with strategic objectives. My services combine technical proficiency, analytical precision, and a commitment to delivering measurable results.
+</p>
               </li>
 
               <li>
                 <BiCheck className="service__list-icon" />
-                <p>Lorem, ipsum dolor sit amet consectetur elit</p>
+                <p>System Analysis & Optimization
+   - Conduct comprehensive assessments of IT systems, identifying inefficiencies, bottlenecks, and opportunities for improvement.  
+   - Design and implement optimized workflows, system architectures, and processes to enhance performance, scalability, and reliability.  
+   - Provide actionable recommendations to align technology infrastructure with business goals.
+</p>
               </li>
 
               <li>
                 <BiCheck className="service__list-icon" />
-                <p>Lorem, ipsum dolor sit amet consectetur elit</p>
+                <p>Data Analysis & Insights
+   - Analyze complex datasets to uncover trends, patterns, and actionable insights that inform strategic decision-making.  
+   - Develop and implement data models, dashboards, and reporting tools to support business intelligence and performance tracking.  
+   - Ensure data integrity, security, and compliance with industry standards and regulations.
+</p>
               </li>
 
               <li>
                 <BiCheck className="service__list-icon" />
-                <p>Lorem, ipsum dolor sit amet consectetur elit</p>
+                <p>Troubleshooting & Problem Resolution
+   - Diagnose and resolve complex technical issues, including system failures, software bugs, and performance degradation.  
+   - Implement proactive monitoring and maintenance strategies to minimize downtime and ensure slystem reliability.  
+   - Offer expert support for hardware, software, and network-related challenges.
+
+</p>
               </li>
 
               <li>
                 <BiCheck className="service__list-icon" />
-                <p>Lorem, ipsum dolor sit amet consectetur elit</p>
+                <p>Process Automation & Efficiency**  
+   - Identify opportunities for automation to streamline repetitive tasks and improve operational efficiency.  
+   - Develop and deploy automation scripts, workflows, and tools to reduce manual effort and enhance productivity.  
+   - Optimize business processes through technology-driven solutions, improving speed and accuracy.
+</p>
               </li>
 
               <li>
                 <BiCheck className="service__list-icon" />
-                <p>Lorem, ipsum dolor sit amet consectetur elit</p>
+                <p>Consulting & Training**  
+   - Provide strategic IT consulting to align technology initiatives with organizational goals and industry best practices.  
+   - Deliver training and documentation to empower teams with the knowledge and tools needed to leverage systems effectively.  
+   - Collaborate with stakeholders to ensure successful adoption of new technologies and processes.
+</p>
               </li>
             </ul>
           </div>
