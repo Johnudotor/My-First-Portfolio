@@ -50,7 +50,7 @@ const Services = () => {
                 <p>Maintenance & Optimization
    - Provide ongoing support, bug fixes, and performance optimization for existing web applications.  
    - Implement SEO best practices and optimize load times to improve user engagement and search engine rankings.  
-   - Conduct code reviews and refactoring to ensure clean, maintainable, and future-proof codebases.</p>
+   - Conduct code reviews and refactoring to ensure clean, maintainable, and future-proof codebases</p>
               </li>
             </ul>
           </div>
