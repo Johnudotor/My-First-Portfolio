@@ -223,7 +223,7 @@ const Services = () => {
                 <p>Consulting & Project Management
    - Offer expert consultation on material selection, design concepts, and project feasibility to bring your vision to life.  
    - Manage projects from concept to completion, coordinating with architects, contractors, and designers to ensure timely and flawless execution.  
-   - Provide maintenance advice to preserve the longevity and beauty of custom woodwork and furniture.
+   - Provide maintenance advice to preserve the longevity and beauty of custom woodwork and furnitures. 
 </p>
               </li>
             </ul>
